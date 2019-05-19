@@ -1,0 +1,88 @@
+{
+    "specializes": [
+        {
+            "name": "Earth Monk",
+            "class": "monk",
+            "summon": "Earth Elemental",
+            "summon_name": "Earth Elemental",
+            "element": "earth",
+        },
+        {
+            "name": "Lightning Monk",
+            "class": "monk",
+            "summon": "Lightning Elemental",
+            "summon_name": "Lightning Elemental",
+            "element": "lightning",
+        },
+        {
+            "name": "Water Monk",
+            "class": "monk",
+            "summon": "Water Elemental",
+            "summon_name": "Water Elemental",
+            "element": "water",
+        },
+        {
+            "name": "Fire Knight",
+            "class": "knight",
+            "summon": "Volcanic Dragon",
+            "summon_name": "Bahamut",
+            "element": "fire",
+        },
+        {
+            "name": "Atlantic Knight",
+            "class": "knight",
+            "summon": "Sea Dragon",
+            "summon_name": "Leviathan",
+            "element": "water",
+        },
+        {
+            "name": "Winter Knight",
+            "class": "knight",
+            "summon": "Frost Dragon",
+            "summon_name": "Wyvern",
+            "element": "ice",
+        },
+        {
+            "name": "Toxic Ninja",
+            "class": "ninja",
+            "summon": "Venom Serpent",
+            "summon_name": "Hydra",
+            "element": "poison",
+        },
+        {
+            "name": "Wind Ranger",
+            "class": "ranger",
+            "summon": "Wind Phoenix",
+            "summon_name": "Icarus",
+            "element": "wind",
+        },
+        {
+            "name": "Claw Mutant",
+            "class": "mutant",
+            "summon": "Werewolf",
+            "summon_name": "Lycan",
+            "element": "dark",
+        },
+        {
+            "name": "Fire Mage",
+            "class": "mage",
+            "summon": "Lava Golem",
+            "summon_name": "Zoc",
+            "element": "fire",
+        },
+        {
+            "name": "Nature Mage",
+            "class": "mage",
+            "summon": "Nature Protector",
+            "summon_name": "Leshy",
+            "element": "nature",
+        },
+        {
+            "name": "Holy Mage",
+            "class": "mage",
+            "summon": "Holy Angel",
+            "summon_name": "Seraph",
+            "element": "light",
+        },
+    ]
+}

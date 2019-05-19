@@ -1,0 +1,119 @@
+{
+    "statuses": [
+        {
+            "name": "Stun",
+            "alias": "STN",
+            "effect": "Skip x turns",
+        },
+        {
+            "name": "Sleep",
+            "alias": "SLP",
+            "effect": "Chance skip x turns",
+        },
+        {
+            "name": "Shock",
+            "alias": "SHK",
+            "effect": "Cancel channelling",
+        },
+        {
+            "name": "Silence",
+            "alias": "SLC",
+            "effect": "Disable skill x turns",
+        },
+        {
+            "name": "Burn",
+            "alias": "BRN",
+            "effect": "Damage overtime x turns",
+        },
+        {
+            "name": "Regenerate",
+            "alias": "RGN",
+            "effect": "Heal overtime x turns",
+        },
+        {
+            "name": "Frozen",
+            "alias": "FRZ",
+            "effect": "Skip x turns",
+        },
+        {
+            "name": "Poisoned",
+            "alias": "PSN",
+            "effect": "Damage overtime x turns",
+        },
+        {
+            "name": "Dazed",
+            "alias": "DZE",
+            "effect": "Decrease accuracy x turns",
+        },
+        {
+            "name": "Blind",
+            "alias": "BLD",
+            "effect": "Attack miss x turns",
+        },
+        {
+            "name": "Invisibility",
+            "alias": "INV",
+            "effect": "Invisible x turns",
+        },
+        {
+            "name": "Tangled",
+            "alias": "TGL",
+            "effect": "Disable movement x turns",
+        },
+        {
+            "name": "Immunity",
+            "alias": "IMU",
+            "effect": "Immune to skill x turns",
+        },
+        {
+            "name": "Immortal",
+            "alias": "IMO",
+            "effect": "Immune to death x turns",
+        },
+        {
+            "name": "Empowered",
+            "alias": "EMP",
+            "effect": "Increase attack x turns",
+        },
+        {
+            "name": "Paralyzed",
+            "alias": "PRZ",
+            "effect": "Chance to skip x turns",
+        },
+        {
+            "name": "Lifesteal",
+            "alias": "LFS",
+            "effect": "Heal % attack into HP",
+        },
+        {
+            "name": "Focused",
+            "alias": "FCS",
+            "effect": "Increase critical chance x turns",
+        },
+        {
+            "name": "Weakened",
+            "alias": "WKN",
+            "effect": "Decrease attack x turns",
+        },
+        {
+            "name": "Armour",
+            "alias": "ARM",
+            "effect": "Increase defense x turns",
+        },
+        {
+            "name": "Shield",
+            "alias": "SHD",
+            "effect": "Block x damage x turns",
+        },
+        {
+            "name": "Nightmare",
+            "alias": "NGM",
+            "effect": "Deal % HP x turns",
+        },
+        {
+            "name": "Truesight",
+            "alias": "TSG",
+            "effect": "Reveal INV units",
+        },
+    ]
+}

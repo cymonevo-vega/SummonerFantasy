@@ -1,0 +1,46 @@
+{
+    "characters": [
+        {
+            "name": "monk",
+            "primary": "none",
+            "strength": 10,
+            "agility": 10,
+            "intelligence": 10,
+        },
+        {
+            "name": "knight",
+            "primary": "strength",
+            "strength": 14,
+            "agility": 10,
+            "intelligence": 6,
+        },
+        {
+            "name": "ninja",
+            "primary": "agility",
+            "strength": 8,
+            "agility": 14,
+            "intelligence": 8,
+        },
+        {
+            "name": "ranger",
+            "primary": "agility",
+            "strength": 6,
+            "agility": 12,
+            "intelligence": 12,
+        },
+        {
+            "name": "mutant",
+            "primary": "agility",
+            "strength": 10,
+            "agility": 14,
+            "intelligence": 6,
+        },
+        {
+            "name": "mage",
+            "primary": "intelligence",
+            "strength": 8,
+            "agility": 8,
+            "intelligence": 14,
+        },
+    ]
+}

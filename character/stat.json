@@ -1,0 +1,49 @@
+{
+    "stat": [
+        {
+            "name": "Attack",
+            "alias": "ATK",
+            "description": "Base power to calculate skill damage",
+        },
+        {
+            "name": "Defense",
+            "alias": "DEF",
+            "description": "Base power to block % income damage",
+        },
+        {
+            "name": "Health Points",
+            "alias": "HP",
+            "description": "Base health points",
+        },
+        {
+            "name": "Magic Points",
+            "alias": "MP",
+            "description": "Base magic points",
+        },
+        {
+            "name": "Accuracy",
+            "alias": "ACC",
+            "description": "Base chance to hit enemy",
+        },
+        {
+            "name": "Critical",
+            "alias": "CRI",
+            "description": "Base chance to deal critical damage",
+        },
+        {
+            "name": "Evasion",
+            "alias": "EVA",
+            "description": "Base chance to dodge attack",
+        },
+        {
+            "name": "Jump",
+            "alias": "JMP",
+            "description": "Base cooldown to dodge attack",
+        },
+        {
+            "name": "Multimove",
+            "alias": "MLT",
+            "description": "Base chance to have additional turn",
+        },
+    ]
+}
